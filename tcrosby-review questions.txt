@@ -1,6 +1,6 @@
 My CodePen from part 2:
 
-https://codepen.io/TCrosby/pen/PowBjoJ?editors=1100 (NOT FINISHED YET!!)
+https://codepen.io/TCrosby/pen/PowBjoJ?editors=1100
 
 1. What is Semantic HTML? 
 It is giving meaning to what we are writing and filling a webpage with. It organizes it so that we can manipulate it to do things and design it the way we want.
@@ -92,7 +92,7 @@ Border property; border: 1px dotted black;
 The universal selector *
 
 30. How do I write a comment in CSS?
-<!-- text goes here -->
+/* text goes here */
 
 31. How do I find out what file I am in, when I am using the command line? 
 pwd
